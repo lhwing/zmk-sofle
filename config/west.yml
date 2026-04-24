@@ -11,6 +11,6 @@ manifest:
       import: app/west.yml
     - name: urchin-peripheral-animation
       remote: gpeye
-      revision: main 
+      revision: v0.3.0 
   self:
     path: config
